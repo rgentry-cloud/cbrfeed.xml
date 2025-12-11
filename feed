@@ -6,11 +6,12 @@
     <description>Fake News</description>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Dec 2025 12:00:00 +0000</lastBuildDate>
+    <atom:link href="https://rgentry-cloud.github.io/cbrfeed.xml/feed/" rel="self" type="application/rss+xml" />
 
     <item>
       <title>Chromebooks are retaliating</title>
-      <link>https://rgentry-cloud.github.io/post1</link>
-      <guid>https://rgentry-cloud.github.io/post1</guid>
+      <link>https://rgentry-cloud.github.io/cbrfeed.xml/feed/</link>
+      <guid>https://rgentry-cloud.github.io/cbrfeed.xml/feed/</guid>
       <pubDate>Thu, 11 Dec 2025 10:00:00 +0000</pubDate>
       <description><![CDATA[
         <p>Hello world! This is my first item in the custom RSS feed.</p>
