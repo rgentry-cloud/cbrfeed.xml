@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CB Repair RSS Feed</title>
+    <link>https://rgentry-cloud.github.io</link>
+    <description>Fake News</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Dec 2025 12:00:00 +0000</lastBuildDate>
+    <atom:link href="https://rgentry-cloud.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Chromebooks are retaliating</title>
+      <link>https://rgentry-cloud.github.io/post1</link>
+      <guid>https://rgentry-cloud.github.io/post1</guid>
+      <pubDate>Thu, 11 Dec 2025 10:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <p>Hello world! This is my first item in the custom RSS feed.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>There are so many screws to organize. It never ends</title>
+      <link>https://rgentry-cloud.github.io/post1</link>
+      <guid>https://rgentry-cloud.github.io/post1</guid>
+      <pubDate>Thu, 11 Dec 2025 10:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <p>Hello world! This is my first item in the custom RSS feed.</p>
+      ]]></description>
+    </item>
+
+  </channel>
+</rss>
