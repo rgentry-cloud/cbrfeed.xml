@@ -9,12 +9,73 @@
     <atom:link href="https://rgentry-cloud.github.io/cbrfeed.xml/feed/" rel="self" type="application/rss+xml" />
 
     <item>
-      <title>Chromebooks are retaliating</title>
-      <link>https://rgentry-cloud.github.io/cbrfeed.xml/feed/</link>
-      <guid>https://rgentry-cloud.github.io/cbrfeed.xml/feed/</guid>
-      <pubDate>Thu, 11 Dec 2025 10:00:00 +0000</pubDate>
+      <title>Chromebooks are retaliating, defend yourself today!</title>
+      <link>https://rgentry-cloud.github.io/cbrfeed.xml/feed/1</link>
+      <guid>https://rgentry-cloud.github.io/cbrfeed.xml/feed/1</guid>
+      <pubDate>Thu, 12 Dec 2025 10:00:00 +0000</pubDate>
       <description><![CDATA[
-        <p>Hello world! This is my first item in the custom RSS feed.</p>
+        <p>Hello world!</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Research shows that height is Africa is actually measured by how tall you are.</title>
+      <link>https://rgentry-cloud.github.io/cbrfeed.xml/feed2/</link>
+      <guid>https://rgentry-cloud.github.io/cbrfeed.xml/feed2/</guid>
+      <pubDate>Thu, 12 Dec 2025 10:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <p>Hello world!</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Astronauts Report Back: The Moon Is Great, But The Wi-Fi Sucks</title>
+      <link>https://rgentry-cloud.github.io/cbrfeed.xml/feed3/</link>
+      <guid>https://rgentry-cloud.github.io/cbrfeed.xml/feed3/</guid>
+      <pubDate>Thu, 12 Dec 2025 10:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <p>Hello world!</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Local Couple Starts ‘Silent Karaoke Night,’ Only the Music Plays, No One Sings</title>
+      <link>https://rgentry-cloud.github.io/cbrfeed.xml/feed4/</link>
+      <guid>https://rgentry-cloud.github.io/cbrfeed.xml/feed4/</guid>
+      <pubDate>Thu, 12 Dec 2025 10:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <p>Hello world!</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Study shows 53% of all statistics are made up</title>
+      <link>https://rgentry-cloud.github.io/cbrfeed.xml/feed5/5</link>
+      <guid>https://rgentry-cloud.github.io/cbrfeed.xml/feed5/<5/guid>
+      <pubDate>Thu, 12 Dec 2025 10:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <p>Hello world!</p>
+      ]]></description>
+    </item>
+
+
+    <item>
+      <title>Self-Driving Car Refuses to Leave Driveway Until It Gets Coffee</title>
+      <link>https://rgentry-cloud.github.io/cbrfeed.xml/feed/6</link>
+      <guid>https://rgentry-cloud.github.io/cbrfeed.xml/feed/6</guid>
+      <pubDate>Thu, 12 Dec 2025 10:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <p>Hello world!</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Scientists Warn: Your Reflection Might Be Judging You</title>
+      <link>https://rgentry-cloud.github.io/cbrfeed.xml/feed/7</link>
+      <guid>https://rgentry-cloud.github.io/cbrfeed.xml/feed/7</guid>
+      <pubDate>Thu, 12 Dec 2025 10:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <p>Hello world!</p>
       ]]></description>
     </item>
 
